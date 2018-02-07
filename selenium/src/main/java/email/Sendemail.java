@@ -22,6 +22,7 @@ public class Sendemail {
 		email.send();
 		
 		System.out.println("----------Mail sent successfully-----------");
+		System.out.println("test");
 
 	}
 
